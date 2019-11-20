@@ -1,0 +1,200 @@
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\ApplicationInsights.config
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\csc.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\System.Collections.Immutable.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\vbc.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\VBCSCompiler.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\roslyn\VBCSCompiler.exe.config
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\web_prog.dll.config
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\web_prog.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\web_prog.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.Web.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.WindowsServer.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.ApplicationInsights.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.Web.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.AI.WindowsServer.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.ApplicationInsights.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\obj\Debug\web_prog.dll
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\obj\Debug\web_prog.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\web_prog\web_prog\obj\Debug\web_prog.csprojResolveAssemblyReference.cache
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\ApplicationInsights.config
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\csc.exe
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\vbc.exe
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\web_prog.dll.config
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\web_prog.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\web_prog.pdb
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.Web.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.Web.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\obj\Debug\web_prog.csprojResolveAssemblyReference.cache
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\obj\Debug\web_prog.dll
+C:\Users\Nurcanozkn\Desktop\web_prog\web_prog\obj\Debug\web_prog.pdb
+D:\projeler\Kreş_Proje\web_prog\bin\ApplicationInsights.config
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\csc.exe
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\System.Collections.Immutable.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\vbc.exe
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe
+D:\projeler\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe.config
+D:\projeler\Kreş_Proje\web_prog\bin\web_prog.dll.config
+D:\projeler\Kreş_Proje\web_prog\bin\web_prog.dll
+D:\projeler\Kreş_Proje\web_prog\bin\web_prog.pdb
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.xml
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.xml
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.xml
+D:\projeler\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projeler\Kreş_Proje\web_prog\obj\Debug\web_prog.csprojResolveAssemblyReference.cache
+D:\projeler\Kreş_Proje\web_prog\obj\Debug\web_prog.dll
+D:\projeler\Kreş_Proje\web_prog\obj\Debug\web_prog.pdb
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\ApplicationInsights.config
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\csc.exe
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\vbc.exe
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll.config
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.pdb
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.dll
+C:\Users\Muhammed\Desktop\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.pdb
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\ApplicationInsights.config
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\csc.exe
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Collections.Immutable.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\vbc.exe
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe.config
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll.config
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.pdb
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.csprojResolveAssemblyReference.cache
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.dll
+E:\Dosyalar\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.pdb
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\ApplicationInsights.config
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\csc.exe
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Collections.Immutable.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\vbc.exe
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\roslyn\VBCSCompiler.exe.config
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll.config
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\web_prog.pdb
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.Web.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.AI.WindowsServer.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.ApplicationInsights.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.csprojAssemblyReference.cache
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.csproj.CoreCompileInputs.cache
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.csproj.CopyComplete
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.dll
+E:\Dosyalar\Yapılan Projeler\Kres_Projesi\Kreş_Proje\Kreş_Proje\web_prog\obj\Debug\web_prog.pdb
